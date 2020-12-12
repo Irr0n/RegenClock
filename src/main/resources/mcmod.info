@@ -1,0 +1,16 @@
+[
+{
+  "modid": "regen_clock",
+  "name": "Regen Clock",
+  "description": "A clock for regen cycles in Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iron"],
+  "credits": "Remain anonymous, friend.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
